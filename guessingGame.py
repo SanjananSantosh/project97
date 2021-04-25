@@ -20,4 +20,4 @@ while chances<5:
    chances += 1
 
 if not chances<5:
-     print("you loose! the number was",number)
+     print("You loose! The number was",number)
